@@ -33,3 +33,9 @@ docker rmi alexanderfefelov/postgrespro-1c
 🔥 Удалите данные:
 
 docker volume rm postgrespro-1c-data
+
+## Contact / Контакты
+
+- Email: [feudor.lab@yandex.ru](mailto:feudor.lab@yandex.ru)
+- Telegram: [@Feudorlab1](https://t.me/Feudorlab1)
+
