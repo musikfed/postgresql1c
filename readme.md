@@ -42,3 +42,10 @@ docker volume rm postgrespro-1c-data
 ## Languages / Языки
 
 [English](README_EN.md) · [Русский](README_RU.md) · [हिन्दी](README_HI.md) · [简体中文](README_ZH-CN.md) · [Қазақша](README_KK.md) · [Монгол](README_MN.md) · [Саха тыла](README_SAH.md) · [Беларуская](README_BE.md) · [한국어](README_KO.md)
+
+
+## Project showcase · Презентация на 11 языках
+
+[**Visual architecture, translations and contact**](docs/showcase/README.md)
+
+![postgresql1c architecture](docs/showcase/overview.svg)
