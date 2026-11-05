@@ -1,6 +1,5 @@
 # postgresql1c · Visual showcase / Презентация
 
-![Project-specific editable vector architecture](overview.svg)
 
 **Инфраструктурные инструменты / Infrastructure lab and tools** · Container → PostgresPro 1C → Docker build → 1C server · **experimental**.
 
