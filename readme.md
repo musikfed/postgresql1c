@@ -48,4 +48,3 @@ docker volume rm postgrespro-1c-data
 
 [**Visual architecture, translations and contact**](docs/showcase/README.md)
 
-![postgresql1c architecture](docs/showcase/overview.svg)
