@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "id": "postgresql1c",
+  "title": "postgresql1c",
+  "version": "—",
+  "description": "Назначение проекта уточняется автором.",
+  "subtitle": null,
+  "tags": [
+    "Shell"
+  ],
+  "visibility": "public",
+  "publication": "publish_on_merge",
+  "public_private_approved": false,
+  "display_mode": "diagram",
+  "status": "Черновик — ожидает проверки",
+  "repo_url": "https://github.com/musikfed/postgresql1c",
+  "screenshots": [],
+  "cover": "vitrine/generated/cover.svg",
+  "cover_type": "schematic-not-screenshot",
+  "screenshot_source": "not-available"
+}
